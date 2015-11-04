@@ -20,13 +20,13 @@ This project provides several utilties for loading and using the date table.
 
 1. To use these three script as part of your Incorta implementation, please install the Get Date Rows PL/SQL function in a Oracle database.
 2. The Get Date Attribute SQL is the data load SQL for loading the date table.
-3. The Get Current Date Seq is a SQL used to populating session variables.  The session variable is optional if you do not plan to use the feature of get the last N periods, where the period can be Week, Month, or Year.
+3. 	The Get Current Date Seq is a SQL used to populating session variables.  The session variable is optional if you do not plan to use the feature of get the last N periods, where the period can be Week, Month, or Year.
  
 
 	
 ## Copyright and License 
 
-Copyright (c) 2010 Incorta
+Copyright (c) 2015 Incorta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
